@@ -1,5 +1,5 @@
 # demo
-a=10><br>
+a=int(input("enter the number"))<br>
 b=2<br>
 print("additon",a+b)<br>
 print("subtraction",a+b)<br>
