@@ -1,6 +1,6 @@
 import random
 n=random.randint(1,101)
-a=-1
+a=0
 guess=0
 while (a!=n):
     guess+=1
