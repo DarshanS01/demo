@@ -5,5 +5,5 @@ print("additon",a+b)<br>
 print("subtraction",a+b)<br>
 print("multiplicaton",a+b)<br>
 print("division",a+b)<br>
-print("**",a**b)
+
 
